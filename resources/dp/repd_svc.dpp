@@ -1,0 +1,20 @@
+#Deployment Plugin Project File
+#Tue Jul 02 20:30:56 BRT 2019
+build.ant.name=<.>\\resources\\dp\\repd_svc_build.xml
+build.dp.file=<.>\\resources\\dp\\repd_svc.dp
+build.location=
+bundles.0.bundle_path=C\:\\Desenvolvimento\\eclipse\\JAR_files\\Kura400\\repd_svc_c\\plugins\\ufrj.coppe.lcp.repa_1.0.0.201907021925.jar
+bundles.0.customizer=false
+bundles.0.headers.count=0
+bundles.0.missing=false
+bundles.0.name=bundles/ufrj.coppe.lcp.repa_1.0.0.201907021925.jar
+bundles.0.symbolic_name=ufrj.coppe.lcp.repa;singleton\:\=true
+bundles.0.version=1.0.0.201907021925
+bundles.count=1
+certificates.count=0
+general.signbundles=false
+headers.other.headers=
+headers.symbolic.name=repd_svc
+headers.version=1.0.0
+resources.count=0
+

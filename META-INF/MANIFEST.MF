@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Repa
+Bundle-SymbolicName: ufrj.coppe.lcp.repa;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: ufrj.coppe.lcp.repa
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Import-Package: org.osgi.framework;version="1.8.0"
+Service-Component: OSGI-INF/Main.xml
+Bundle-ActivationPolicy: lazy
+Export-Package: ufrj.coppe.lcp.repa

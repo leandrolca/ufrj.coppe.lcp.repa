@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scr:component xmlns:scr="http://www.osgi.org/xmlns/scr/v1.1.0" immediate="true" name="ufrj.coppe.lcp.repa">
+   <implementation class="ufrj.coppe.lcp.repa.Main"/>
+   <service>
+      <provide interface="ufrj.coppe.lcp.repa.Main"/>
+   </service>
+   <implementation class="ufrj.coppe.lcp.repa.Main"/>
+   <service>
+      <provide interface="ufrj.coppe.lcp.repa.Main"/>
+   </service>pa.Main"/>
+</scr:component>
